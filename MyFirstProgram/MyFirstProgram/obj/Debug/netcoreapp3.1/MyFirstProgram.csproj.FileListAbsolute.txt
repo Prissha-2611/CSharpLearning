@@ -1,0 +1,11 @@
+/Users/prissha/Projects/MyFirstProgram/MyFirstProgram/bin/Debug/netcoreapp3.1/MyFirstProgram
+/Users/prissha/Projects/MyFirstProgram/MyFirstProgram/bin/Debug/netcoreapp3.1/MyFirstProgram.deps.json
+/Users/prissha/Projects/MyFirstProgram/MyFirstProgram/bin/Debug/netcoreapp3.1/MyFirstProgram.runtimeconfig.json
+/Users/prissha/Projects/MyFirstProgram/MyFirstProgram/bin/Debug/netcoreapp3.1/MyFirstProgram.runtimeconfig.dev.json
+/Users/prissha/Projects/MyFirstProgram/MyFirstProgram/bin/Debug/netcoreapp3.1/MyFirstProgram.dll
+/Users/prissha/Projects/MyFirstProgram/MyFirstProgram/bin/Debug/netcoreapp3.1/MyFirstProgram.pdb
+/Users/prissha/Projects/MyFirstProgram/MyFirstProgram/obj/Debug/netcoreapp3.1/MyFirstProgram.csprojAssemblyReference.cache
+/Users/prissha/Projects/MyFirstProgram/MyFirstProgram/obj/Debug/netcoreapp3.1/MyFirstProgram.AssemblyInfoInputs.cache
+/Users/prissha/Projects/MyFirstProgram/MyFirstProgram/obj/Debug/netcoreapp3.1/MyFirstProgram.AssemblyInfo.cs
+/Users/prissha/Projects/MyFirstProgram/MyFirstProgram/obj/Debug/netcoreapp3.1/MyFirstProgram.dll
+/Users/prissha/Projects/MyFirstProgram/MyFirstProgram/obj/Debug/netcoreapp3.1/MyFirstProgram.pdb

@@ -1,0 +1,14 @@
+/Users/prissha/Projects/Resilience/Resilience/bin/Debug/netcoreapp3.1/Resilience
+/Users/prissha/Projects/Resilience/Resilience/bin/Debug/netcoreapp3.1/Resilience.deps.json
+/Users/prissha/Projects/Resilience/Resilience/bin/Debug/netcoreapp3.1/Resilience.runtimeconfig.json
+/Users/prissha/Projects/Resilience/Resilience/bin/Debug/netcoreapp3.1/Resilience.runtimeconfig.dev.json
+/Users/prissha/Projects/Resilience/Resilience/bin/Debug/netcoreapp3.1/Resilience.dll
+/Users/prissha/Projects/Resilience/Resilience/bin/Debug/netcoreapp3.1/Resilience.pdb
+/Users/prissha/Projects/Resilience/Resilience/bin/Debug/netcoreapp3.1/point.dll
+/Users/prissha/Projects/Resilience/Resilience/bin/Debug/netcoreapp3.1/point.pdb
+/Users/prissha/Projects/Resilience/Resilience/obj/Debug/netcoreapp3.1/Resilience.csprojAssemblyReference.cache
+/Users/prissha/Projects/Resilience/Resilience/obj/Debug/netcoreapp3.1/Resilience.AssemblyInfoInputs.cache
+/Users/prissha/Projects/Resilience/Resilience/obj/Debug/netcoreapp3.1/Resilience.AssemblyInfo.cs
+/Users/prissha/Projects/Resilience/Resilience/obj/Debug/netcoreapp3.1/Resilience.csproj.CopyComplete
+/Users/prissha/Projects/Resilience/Resilience/obj/Debug/netcoreapp3.1/Resilience.dll
+/Users/prissha/Projects/Resilience/Resilience/obj/Debug/netcoreapp3.1/Resilience.pdb

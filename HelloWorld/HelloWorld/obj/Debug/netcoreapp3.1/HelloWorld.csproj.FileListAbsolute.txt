@@ -1,0 +1,11 @@
+/Users/prissha/Desktop/C#Codes/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld
+/Users/prissha/Desktop/C#Codes/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.deps.json
+/Users/prissha/Desktop/C#Codes/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.json
+/Users/prissha/Desktop/C#Codes/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json
+/Users/prissha/Desktop/C#Codes/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/prissha/Desktop/C#Codes/HelloWorld/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/prissha/Desktop/C#Codes/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csprojAssemblyReference.cache
+/Users/prissha/Desktop/C#Codes/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+/Users/prissha/Desktop/C#Codes/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+/Users/prissha/Desktop/C#Codes/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/prissha/Desktop/C#Codes/HelloWorld/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb

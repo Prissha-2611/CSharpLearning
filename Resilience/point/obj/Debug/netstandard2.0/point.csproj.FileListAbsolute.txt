@@ -1,0 +1,8 @@
+/Users/prissha/Projects/Resilience/point/bin/Debug/netstandard2.0/point.deps.json
+/Users/prissha/Projects/Resilience/point/bin/Debug/netstandard2.0/point.dll
+/Users/prissha/Projects/Resilience/point/bin/Debug/netstandard2.0/point.pdb
+/Users/prissha/Projects/Resilience/point/obj/Debug/netstandard2.0/point.csprojAssemblyReference.cache
+/Users/prissha/Projects/Resilience/point/obj/Debug/netstandard2.0/point.AssemblyInfoInputs.cache
+/Users/prissha/Projects/Resilience/point/obj/Debug/netstandard2.0/point.AssemblyInfo.cs
+/Users/prissha/Projects/Resilience/point/obj/Debug/netstandard2.0/point.dll
+/Users/prissha/Projects/Resilience/point/obj/Debug/netstandard2.0/point.pdb

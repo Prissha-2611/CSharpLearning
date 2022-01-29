@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{C5AE8BCB-9D49-4BA6-8BC3-9EAA117814EF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyFirstProgram/WeatherUtilities.cs">
+    <Files>
+      <File FileName="MyFirstProgram/Program.cs" Line="7" Column="6" />
+      <File FileName="MyFirstProgram/EmptyClass.cs" Line="10" Column="12" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyFirstProgram" expanded="True">
+            <Node name="MyFirstProgram" expanded="True">
+              <Node name="WeatherUtilities.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>ComfortIndex(temperatureFahrenheit,humidityPercent)</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MyFirstProgram PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

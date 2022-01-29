@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Resilience/1.0.0": {
+        "dependencies": {
+          "point": "1.0.0"
+        },
+        "runtime": {
+          "Resilience.dll": {}
+        }
+      },
+      "point/1.0.0": {
+        "runtime": {
+          "point.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Resilience/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "point/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

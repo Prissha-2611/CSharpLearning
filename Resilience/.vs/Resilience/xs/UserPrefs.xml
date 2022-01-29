@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{2D6F0807-4D30-42FF-AF1D-C5BF3A5AE131}|Default">
+  <MonoDevelop.Ide.ItemProperties.Resilience PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Resilience/Program.cs">
+    <Files>
+      <File FileName="Resilience/Program.cs" Line="10" Column="2" />
+      <File FileName="point/Class1.cs" Line="7" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Resilience" expanded="True">
+            <Node name="point" expanded="True" />
+            <Node name="Resilience" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
