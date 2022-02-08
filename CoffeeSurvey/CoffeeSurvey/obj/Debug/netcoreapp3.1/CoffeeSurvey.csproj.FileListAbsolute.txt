@@ -1,0 +1,13 @@
+/Users/prissha/Documents/GitHub/CSharpLearning/CoffeeSurvey/CoffeeSurvey/bin/Debug/netcoreapp3.1/CoffeeSurvey
+/Users/prissha/Documents/GitHub/CSharpLearning/CoffeeSurvey/CoffeeSurvey/bin/Debug/netcoreapp3.1/CoffeeSurvey.deps.json
+/Users/prissha/Documents/GitHub/CSharpLearning/CoffeeSurvey/CoffeeSurvey/bin/Debug/netcoreapp3.1/CoffeeSurvey.runtimeconfig.json
+/Users/prissha/Documents/GitHub/CSharpLearning/CoffeeSurvey/CoffeeSurvey/bin/Debug/netcoreapp3.1/CoffeeSurvey.runtimeconfig.dev.json
+/Users/prissha/Documents/GitHub/CSharpLearning/CoffeeSurvey/CoffeeSurvey/bin/Debug/netcoreapp3.1/CoffeeSurvey.dll
+/Users/prissha/Documents/GitHub/CSharpLearning/CoffeeSurvey/CoffeeSurvey/bin/Debug/netcoreapp3.1/CoffeeSurvey.pdb
+/Users/prissha/Documents/GitHub/CSharpLearning/CoffeeSurvey/CoffeeSurvey/obj/Debug/netcoreapp3.1/CoffeeSurvey.csprojAssemblyReference.cache
+/Users/prissha/Documents/GitHub/CSharpLearning/CoffeeSurvey/CoffeeSurvey/obj/Debug/netcoreapp3.1/CoffeeSurvey.AssemblyInfoInputs.cache
+/Users/prissha/Documents/GitHub/CSharpLearning/CoffeeSurvey/CoffeeSurvey/obj/Debug/netcoreapp3.1/CoffeeSurvey.AssemblyInfo.cs
+/Users/prissha/Documents/GitHub/CSharpLearning/CoffeeSurvey/CoffeeSurvey/obj/Debug/netcoreapp3.1/CoffeeSurvey.dll
+/Users/prissha/Documents/GitHub/CSharpLearning/CoffeeSurvey/CoffeeSurvey/obj/Debug/netcoreapp3.1/CoffeeSurvey.pdb
+/Users/prissha/Documents/GitHub/CSharpLearning/CoffeeSurvey/CoffeeSurvey/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/prissha/Documents/GitHub/CSharpLearning/CoffeeSurvey/CoffeeSurvey/obj/Debug/netcoreapp3.1/CoffeeSurvey.csproj.CopyComplete
